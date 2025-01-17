@@ -17,3 +17,13 @@ Normal
 - Chest Changes (e.g., malformations, hypoplasia).
 
 The dataset is anonymized, ensuring no patient information is exposed, and has been verified by radiologists. It is provided for academic and research purposes, offering a valuable resource for exploring lung disease detection and classification tasks. The augmentation process ensures balanced classes and increased variability, improving model robustness.
+
+## References
+
+## Project Memebers
+- Asmaa Luai Abdulla 
+- Lujain Adnan
+- 
+## Project Supervisors
+- Dr. Mahmoud Al Shboul 
+- Eng. Muhammad Akhtar
