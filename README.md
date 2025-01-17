@@ -23,7 +23,6 @@ The dataset is anonymized, ensuring no patient information is exposed, and has b
 ## Project Memebers
 - Asmaa Luai Abdulla 
 - Lujain Adnan
-- 
 ## Project Supervisors
 - Dr. Mahmoud Al Shboul 
 - Eng. Muhammad Akhtar
